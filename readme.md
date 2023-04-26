@@ -97,8 +97,8 @@ Hi, I'm Bouaskaoun Mohammed!
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shin-jongwhan&show_icons=true" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shin-jongwhan" alt="bouaskaoun">
 	</a>
 	<br/>
 </p>
