@@ -1,211 +1,157 @@
-<div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
-</div>
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
------
-<details>
-  <summary>☎️ contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">you can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
-  </samp>
-</div>
-</details>
-
-<details>
-  <summary>🧮 about</summary>
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
-     alt="website" /></a>
-  </p>
-  <p align="center">
-  <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
-     alt="CodeFactor" /></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
-  </p>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
-     src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25"
-     alt="lisense" /></a>
-  <a href="github.com/1999AZZAR"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
- </samp>
-</div>
-</details>
-  
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br/>
-    <details open>
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
-          </a>
-        </p>
-</details>
-    <details open>
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
-</details>
-
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<h1 align="center">
+Hi, I'm Bouaskaoun Mohammed!
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	</a>
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+	</a>
+</p>
 <br/>
-  </samp>
-  </details>
-  
-<details>
-  <summary>🌏 global</summary>
-  <br/>
-  <details open>
-  <summary>👷‍♂️ create your own custom badge</summary>
-  <div>
-  <samp>
-    <h2 align="center">u can try using these website for creating your own custom badge</h2>
-    <p align="center">
-      <a href="https://forthebadge.com/generator/" target="blank">
-        <img src="https://forthebadge.com/images/mark.svg" img align="center" height="50"
-        alt="for the badge"/></a>        
-      <a href="https://badgen.net/" target="blank">
-        <img src="https://badgen.net/static/favicon.png" img align="center" height="50"
-        alt="badgen"/></a>
-      <a href="https://shields.io/" target="blank">
-        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img align="center" height="50"
-        alt="shields.io"/></a>
-    </p>
-    </samp>
-  </div>
-</details> 
-<details open>
-  <summary>😒 random stuff</summary>
-<div>
-<samp>
-<h2 align="center"> just an ascii art of me holding an umbrella </h2>
-</samp>
-</div>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 
-```js
-/*
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,///////,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,//(((((((((((((((((((((((((((((((((((((//,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'(((((((((((((((((((((((((((((((((((((((((((((('',,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((((((((((((((((((((((((((((((((((((((((((((//,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'((((((((((((((((((((((((((((((((((((((((((((((((((((((((((',,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((/,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((/,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'((((((((((((''''',,,,(((((((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/////(((((((/,,,/(((((((((((((((((///,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((((((((,,,,,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((((//,,,,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((((((((((,,,,,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((/,,,,,,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(,,,,((',,,,,,,,,,,,,,((((((((,,,,,,,,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/((,,,(((,,,,,,,,,,,,,,((((((((,,,,,,,,,,/(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,(((,,,((((,,,,,,,,,,'(((((((((((,,,,,,,,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,(((,,,((((,,,,////((((((((((''',,,,,,,,,,,,,'(((/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,((',,(((,,,((((,'((((((((((((((((((',,,,,,,,,,,,,,,(((',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((/,,((((/(((((((((((((((((((((/,,,,,',,/,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((,,,((((((((,(((((((((((((((((((',,,,,,(,,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,'(',,(((,,,(((('(((,,,/(((((((((((((((((,,,,,'(,,/,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,,(((,,(',,'((((((((,(((,,,((,,,,,,,(((,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,,(((,,((,,(((((((((,((',,,((,,,,,,,',,,,/(((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(,,,,,((,,,((,,,((((((((,,(,,,,,((,,,,,,,,,,,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((,,((((((((,(((,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((((((,((',,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((,,((((((((((((,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((,,((((((((((((,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,(((((((((',((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((((((((,,((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((,((,((,(((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,((((((((,((,,((,',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,((((((((((',,(((',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((('((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((('((''''''',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'(((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-*/
-```
-</details>
+<hr>
+
+<pre>
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+</pre>
+<hr>
+
+## 🤝 Connect with me
+<p align="center">
+	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+</p>
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Programming Languages
+
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+
+### 🧰 Frameworks and Libraries
+
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+</p>
+
+### 🗄️ Databases and Cloud Hosting
+
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+</p>
+
+### 💻 Software and Tools
+
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+</br>
+
+<!--
+### 👨🏽‍💻 Workspace
+<p>
+    <a href="https://github.com/Bouaskaoun"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="https://github.com/Bouaskaoun"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+</p>
+-->
+
+
+## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+
 <br/>
-</details> 
+<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
+	</a>
+	<br/>
+</p>
+<br/>
+<!--
+<summary><b>⚡ Activity graph</b></summary>
+<br/>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
+	</a>
+</p>
+<br/>
+-->
+<summary><b>⚡ Top Languages</b></summary>
+<br/>
 
------
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
-Last Edited on: 23/09/2022
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
+	</a>
+	<br/>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+<br/>
+
+<table style="border: none">
+  <tr>
+  <td width="50%" valign="top">
+
+## Let's Work on Your Project Together!
+
+If you have any questions about front-end web development, feel free to <a href="mailto:bouaskaoun.mohammed@gmail.com">contact me through email</a> me.
+
+You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in/bouaskaoun/">LinkedIn</a> to deploy your machine learning project on web.
+
+  </td>
+  <td width="50%" valign="top">
+
+## It's not perfect, isn't it?
+
+**<a href="https://github.com/Bouaskaoun"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+
+“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+– Elon Musk
+
+  </td>
+  </tr>
+</table>
+
+------
+
+[Bouaskaoun](https://github.com/Bouaskaoun)
+
+Last Edited on: 19/07/2022
