@@ -97,8 +97,8 @@ Hi, I'm Bouaskaoun Mohammed!
 <br/>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shin-jongwhan&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shin-jongwhan" alt="bouaskaoun">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shin-jongwhan&show_icons=true" alt="Shin-jongwhan">
+	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shin-jongwhan" alt="Shin-jongwhan">
 	</a>
 	<br/>
 </p>
@@ -107,8 +107,8 @@ Hi, I'm Bouaskaoun Mohammed!
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
+	<a href="https://github.com/Shin-jongwhan">
+		<img src="https://activity-graph.herokuapp.com/graph?username=Shin-jongwhan&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="Shin-jongwhan">
 	</a>
 </p>
 <br/>
