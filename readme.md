@@ -22,14 +22,14 @@ Hi, I'm Shin-jongwhan!
 <hr>
 
 <pre>
-💻 Bioinformatics
+💻 I’m currently working at : Theragenbio (Bioinformatics)
 📚 생명과학 학부 전공
-📝 AWS Cloud architect 
+📝 AWS Cloud architect
 🔭 DevOps
 🌱 Currently Learning about AWS Cloud, Hadoop FDS
 🌟 Main languages: Python, SQL
 🚩 Interested in Cloud, DevOps, Bigdata analysis
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
