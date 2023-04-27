@@ -15,7 +15,7 @@ Hi, I'm Shin-jongwhan!
 <br/>
 <p align="center">
 	<a href="https://github.com/Shin-jongwhan">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Bioinformatics;cloud+architect+(junior);Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Bioinformatics;cloud+architect;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -24,11 +24,11 @@ Hi, I'm Shin-jongwhan!
 <pre>
 💻 Bioinformatics
 📚 생명과학 학부 전공
-📝 Cloud architect
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+📝 AWS Cloud architect 
+🔭 DevOps
+🌱 Currently Learning about AWS Cloud, Hadoop FDS
+🌟 Main languages: Python, SQL
+🚩 Interested in Cloud, DevOps, Bigdata analysis
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
