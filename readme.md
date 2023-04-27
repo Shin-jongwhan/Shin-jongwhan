@@ -23,7 +23,7 @@ Hi, I'm Shin-jongwhan!
 
 <pre>
 💻 I’m currently working at : Theragenbio (Bioinformatics)
-📚 생명과학 학부 전공
+📚 My major in BioScience (Bachelor's degree)
 📝 AWS Cloud architect
 🔭 DevOps
 🌱 Currently Learning about AWS Cloud, Hadoop FDS
@@ -35,7 +35,8 @@ Hi, I'm Shin-jongwhan!
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:Shin-jongwhan.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<li>shinejh0528@naver.com</li>
+	<a href="mailto:shinejh0528@naver.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/Shin-jongwhan/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.kaggle.com/Shin-jongwhanmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
