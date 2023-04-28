@@ -72,8 +72,8 @@ Hi, I'm Shin-jongwhan!
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/Shin-jongwhan"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Shin-jongwhan"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
 </p>
 
 ### 💻 Software and Tools
