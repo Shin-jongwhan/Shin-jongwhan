@@ -1,3 +1,4 @@
+# 업데이트 중입니다.
 <h1 align="center">
 Hi, I'm Shin-jongwhan!
 	<a href="https://github.com/Shin-jongwhan" target="_self">
