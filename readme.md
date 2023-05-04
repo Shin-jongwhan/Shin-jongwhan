@@ -71,6 +71,14 @@ Hi, I'm Shin-jongwhan!
 </div>
 <div>
 	<p><b>python</b></p>
+	multiprocessing</br>
+	multithreading</br>
+	matplotlib</br>
+	json</br>
+	paramiko</br>
+	re</br>
+	argparse</br>
+	make won module</br>
 	<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
