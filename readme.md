@@ -33,10 +33,13 @@ Hi, I'm Shin-jongwhan!
 🤔 this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 
+<hr>
+
 ## certification
 <p align="left">
 	<a href="https://www.credly.com/users/jonghwan-shin.85eb67a5/badges"><img src="https://user-images.githubusercontent.com/62974484/236116148-59392770-b0c2-4fec-a2ba-166f754cd84b.png" alt="GitHub"/></a>
 </p>
+
 <hr>
 
 ## 🤝 Connect with me
