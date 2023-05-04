@@ -65,7 +65,7 @@ Hi, I'm Shin-jongwhan!
 ### 🧰 Frameworks and Libraries
 
 <div>
-	<p><br>python</br></p>
+	<p><b>python</b></p>
 		<a><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
 	
 	
