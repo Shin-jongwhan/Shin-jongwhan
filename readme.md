@@ -97,7 +97,9 @@ Hi, I'm Shin-jongwhan!
 </p>
 
 ### 📔 current my interests and learning
-<img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/></a>
+<p>
+    <a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/></a>
+</p>
 </br>
 
 <!--
