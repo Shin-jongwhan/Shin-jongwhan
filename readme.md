@@ -67,7 +67,7 @@ Hi, I'm Shin-jongwhan!
 
 <div>
 	<p><b>game dev</b></p>
-	<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
+	<p><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a></p>
 	
 	<p><b>python</b></p>
 	<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
