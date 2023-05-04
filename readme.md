@@ -65,6 +65,7 @@ Hi, I'm Shin-jongwhan!
 ### 🧰 Frameworks and Libraries
 
 <div>
+	<p>python</p>
 	<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
