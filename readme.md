@@ -20,8 +20,6 @@ Hi, I'm Shin-jongwhan!
 	</a>
 </p>
 
-#### ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/62974484/236116148-59392770-b0c2-4fec-a2ba-166f754cd84b.png)
-
 <hr>
 
 <pre>
@@ -34,6 +32,12 @@ Hi, I'm Shin-jongwhan!
 🚩 Interested in Cloud, DevOps, Bigdata analysis
 🤔 this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
+
+#### ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/62974484/236116148-59392770-b0c2-4fec-a2ba-166f754cd84b.png)
+<p align="center">
+	<li><b>Email</b> : shinejh0528@naver.com</li>
+	<li><a href="https://github.com/Shin-jongwhan"><img src="https://user-images.githubusercontent.com/62974484/236116148-59392770-b0c2-4fec-a2ba-166f754cd84b.png" alt="GitHub"/></a></li>
+</p>
 <hr>
 
 ## 🤝 Connect with me
