@@ -66,7 +66,7 @@ Hi, I'm Shin-jongwhan!
 
 <div>
 	<p>python
-		<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+		<a><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
 	</p>
 	
 	<p>R
