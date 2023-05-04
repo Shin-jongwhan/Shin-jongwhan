@@ -81,6 +81,10 @@ Hi, I'm Shin-jongwhan!
 	<img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown&logoColor=white"/></a>
 </div>
 <div>
+	<p><b>web / app</b></p>
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+</div>
+<div>
 	<p><b>message broker (queue)</b></p>
 	<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=Celery&logoColor=white"/></a>
