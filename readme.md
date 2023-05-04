@@ -82,7 +82,7 @@ Hi, I'm Shin-jongwhan!
 </div>
 <div>
 	<p><b>web / app</b></p>
-	<a href="https://github.com/Shin-jongwhan/react_native">react native</a>&nbsp;
+	<a href="https://github.com/Shin-jongwhan/react_native">react native&nbsp;</a>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 </div>
 <div>
