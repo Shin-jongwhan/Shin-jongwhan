@@ -116,7 +116,7 @@ Hi, I'm Shin-jongwhan!
 ### 📔 current my interests and learning
 <p>
     <a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/></a>
-	<a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+	<a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 </p>
 </br>
 
