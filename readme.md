@@ -20,6 +20,8 @@ Hi, I'm Shin-jongwhan!
 	</a>
 </p>
 
+#### ![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/62974484/236116148-59392770-b0c2-4fec-a2ba-166f754cd84b.png)
+
 <hr>
 
 <pre>
