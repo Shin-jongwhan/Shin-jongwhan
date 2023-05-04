@@ -1,4 +1,3 @@
-# 업데이트 중입니다.
 <h1 align="center">
 Hi, I'm Shin-jongwhan!
 	<a href="https://github.com/Shin-jongwhan" target="_self">
@@ -29,6 +28,7 @@ Hi, I'm Shin-jongwhan!
 🔭 DevOps
 🌱 Currently Learning about AWS Cloud, Hadoop FDS
 🌟 Main languages: Python, SQL
+💿 OS: linux (ubuntu / CentOS), Windows
 🚩 Interested in Cloud, DevOps, Bigdata analysis
 🤔 this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
