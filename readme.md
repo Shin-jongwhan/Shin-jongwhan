@@ -37,7 +37,7 @@ Hi, I'm Shin-jongwhan!
 
 ## certification
 <p align="left">
-	<a href="https://www.credly.com/users/jonghwan-shin.85eb67a5/badges"><img src="https://user-images.githubusercontent.com/62974484/236116148-59392770-b0c2-4fec-a2ba-166f754cd84b.png" alt="GitHub"/ width="150"></a>
+	<a href="https://www.credly.com/users/jonghwan-shin.85eb67a5/badges"><img src="https://user-images.githubusercontent.com/62974484/236116148-59392770-b0c2-4fec-a2ba-166f754cd84b.png" alt="GitHub" width="150" /></a>
 </p>
 
 <hr>
