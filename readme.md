@@ -27,7 +27,7 @@ Hi, I'm Shin-jongwhan!
 📝 AWS Cloud architect
 🔭 DevOps
 🌱 Currently Learning about AWS Cloud, Hadoop FDS
-🌟 Main languages: Python, SQL
+🌟 Main languages: Python, C#, SQL
 💿 OS: linux (ubuntu / CentOS), Windows
 🚩 Interested in Cloud, DevOps, Bigdata analysis
 🤔 this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
