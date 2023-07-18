@@ -26,10 +26,11 @@ Hi, I'm Shin-jongwhan!
 📚 My major in BioScience (Bachelor's degree)
 📝 AWS Cloud architect
 🔭 DevOps
-🌱 Currently Learning about AWS Cloud, Hadoop FDS
+🌱 Currently Learning about Unreal engine 5
 🌟 Main languages: Python, SQL
 💿 OS: linux (ubuntu / CentOS), Windows
-🚩 Interested in Cloud, DevOps, Bigdata analysis
+🚩 Interested in Cloud, DevOps, Bigdata analysis, Data engineering, Develop games
+🌌 Want to learn more about AWS Cloud, Hadoop FDS, Apache spark
 🤔 this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 
@@ -63,6 +64,7 @@ Hi, I'm Shin-jongwhan!
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 </p>
 skript (for minecraft)
+asd
 
 ### ⭐ development Engine
 
