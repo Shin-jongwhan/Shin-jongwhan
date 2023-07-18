@@ -65,8 +65,6 @@ Hi, I'm Shin-jongwhan!
  	<img src="https://img.shields.io/badge/minecraft_skript-62B47A?style=flat-square&logo=minecraft&logoColor=white"/></a>
 </p>
 
-##### skript (for minecraft)
-
 ### ⭐ development Engine
 
 <div>
@@ -143,8 +141,9 @@ Hi, I'm Shin-jongwhan!
 
 ### 📔 current my interests and learning
 <p>
-    <a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/></a>
+	<a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/></a>
 	<a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+	<a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/apache_spark-E25A1C?style=flat-square&logo=apache spark&logoColor=white"/></a>
 </p>
 </br>
 
