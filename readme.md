@@ -62,7 +62,7 @@ Hi, I'm Shin-jongwhan!
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>  
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
- 	<img src="https://img.shields.io/badge/minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white"/></a>
+ 	<img src="https://img.shields.io/badge/minecraft_skript-62B47A?style=flat-square&logo=minecraft&logoColor=white"/></a>
 </p>
 
 ##### skript (for minecraft)
