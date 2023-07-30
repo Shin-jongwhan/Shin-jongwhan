@@ -143,6 +143,11 @@ Hi, I'm Shin-jongwhan!
 	<a>Cron (Linux scheduler)</a>
 </p>
 
+### 💻 workflow language
+<p>
+	<a>snakemake</a>
+</p>
+
 ### 📔 current my interests and learning
 <p>
 	<a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/></a>
