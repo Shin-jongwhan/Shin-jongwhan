@@ -56,8 +56,7 @@ Hi, I'm Shin-jongwhan!
 <p>
 	<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
  	<img src="https://img.shields.io/badge/Cython-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
-  	<a>SQL</a>
-	<img src="https://img.shields.io/badge/C sharp-239120?style=flat-square&logo=C sharp&logoColor=white"/></a>
+  	<img src="https://img.shields.io/badge/C sharp-239120?style=flat-square&logo=C sharp&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a> 
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -65,6 +64,8 @@ Hi, I'm Shin-jongwhan!
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>  
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
  	<img src="https://img.shields.io/badge/minecraft_skript-62B47A?style=flat-square&logo=minecraft&logoColor=white"/></a>
+  	<br/>
+   	<a>SQL</a>
 </p>
 
 ### ⭐ development Engine
