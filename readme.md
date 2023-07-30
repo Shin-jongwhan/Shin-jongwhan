@@ -143,7 +143,7 @@ Hi, I'm Shin-jongwhan!
 	<a>Cron (Linux scheduler)</a>
 </p>
 
-### 💻 workflow language
+### ⌛ workflow language
 <p>
 	<a>snakemake</a>
 </p>
