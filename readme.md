@@ -147,7 +147,7 @@ Hi, I'm Shin-jongwhan!
 
 ### ⌛ workflow language / framework
 <p>
-	<a>snakemake</a>
+	<img src="https://img.shields.io/badge/snakemake-00B14F?style=flat-square&logo=python&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
 </p>
 
