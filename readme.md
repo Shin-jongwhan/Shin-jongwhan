@@ -148,8 +148,10 @@ Hi, I'm Shin-jongwhan!
 ### ⌛ workflow language / framework
 <p>
 	<img src="https://img.shields.io/badge/snakemake-00B14F?style=flat-square&logo=python&logoColor=white"/></a><br/>
-	<img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>[airflow](https://github.com/Shin-jongwhan/airflow)
+	<img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a><br/>
+ 	<a href="https://github.com/Shin-jongwhan/airflow">airflow</a>
 </p>
+
 
 ### 📔 current my interests and learning
 <p>
