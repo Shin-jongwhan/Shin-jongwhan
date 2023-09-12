@@ -145,9 +145,10 @@ Hi, I'm Shin-jongwhan!
 	<a>Cron (Linux scheduler)</a>
 </p>
 
-### ⌛ workflow language
+### ⌛ workflow language / framework
 <p>
 	<a>snakemake</a>
+	<img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
 </p>
 
 ### 📔 current my interests and learning
