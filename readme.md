@@ -133,7 +133,7 @@ Hi, I'm Shin-jongwhan!
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+    <a href="https://github.com/Shin-jongwhan"><img alt="microsoftazure-container" src="https://img.shields.io/badge/microsoftazure-0078D7.svg?logo=microsoftazure-container&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
@@ -141,7 +141,6 @@ Hi, I'm Shin-jongwhan!
 	<a href="https://github.com/Shin-jongwhan"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 	<a href="https://github.com/Shin-jongwhan"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
 	<a href="https://github.com/Shin-jongwhan"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	<a href="https://github.com/Shin-jongwhan"><img alt="microsoftazure" src="https://img.shields.io/badge/microsoftazure-0078D7.svg?logo=microsoftazure&logoColor=white"></a>
 	<br/>
 	<a>Cron (Linux scheduler)</a>
 </p>
