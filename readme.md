@@ -4,7 +4,7 @@ Hi, I'm Shin-jongwhan!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-![](https://komarev.com/ghpvc/?username=Shin-jongwhan)
+[](https://komarev.com/ghpvc/?username=Shin-jongwhan)
 <p align="center">
 	<a href="https://github.com/Shin-jongwhan">
 		<img src="https://komarev.com/ghpvc/?username=Shin-jongwhan&color=green" alt="Shin-jongwhan" />
