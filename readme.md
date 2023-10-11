@@ -39,7 +39,7 @@ Hi, I'm Shin-jongwhan!
 
 ## Docker hub
 <p align="left">
-	<a href="https://hub.docker.com/repositories/shinejh0528">docker hub</a>
+	<a href="https://hub.docker.com/repositories/shinejh0528"><b>docker hub</b></a>
 </p>
 
 <hr>
