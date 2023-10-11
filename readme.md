@@ -5,8 +5,6 @@ Hi, I'm Shin-jongwhan!
 	</a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=Shin-jongwhan)
-
 <p align="center">
 	<a href="https://github.com/Shin-jongwhan">
 		<img src="https://komarev.com/ghpvc/?username=Shin-jongwhan&label=Profile%20views&color=0e75b6&style=flat" alt="Shin-jongwhan" />
@@ -39,6 +37,12 @@ Hi, I'm Shin-jongwhan!
 
 <hr>
 
+## certification
+<p align="left">
+	<a href="https://hub.docker.com/repositories/shinejh0528">docker hub</a>
+</p>
+
+<hr>
 
 ## certification
 <p align="left">
