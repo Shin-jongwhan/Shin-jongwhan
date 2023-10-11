@@ -9,7 +9,7 @@ Hi, I'm Shin-jongwhan!
 
 <p align="center">
 	<a href="https://github.com/Shin-jongwhan">
-		<img src="https://komarev.com/ghpvc/?username=Shin-jongwhan&color=green" alt="Shin-jongwhan" />
+		<img src="https://komarev.com/ghpvc/?username=Shin-jongwhan&label=Profile%20views&color=0e75b6&style=flat" alt="Shin-jongwhan" />
 	</a>
 	<a href="https://github.com/Shin-jongwhan">
 		<img src="https://img.shields.io/github/followers/Shin-jongwhan?label=Followers" alt="Shin-jongwhan" />
