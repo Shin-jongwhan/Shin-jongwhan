@@ -37,7 +37,7 @@ Hi, I'm Shin-jongwhan!
 
 <hr>
 
-## certification
+## Docker hub
 <p align="left">
 	<a href="https://hub.docker.com/repositories/shinejh0528">docker hub</a>
 </p>
