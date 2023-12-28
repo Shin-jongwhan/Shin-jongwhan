@@ -184,7 +184,12 @@ Hi, I'm Shin-jongwhan!
     <a href="https://github.com/Shin-jongwhan"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 -->
+</br>
 
+### 📖 Read books about IT
+- [그림으로 공부하는 IT 인프라 구조](https://product.kyobobook.co.kr/detail/S000001942495)
+  - 야마자키 야스시 / 미나와 요시코 / 아제카츠 요헤이 / 샤토 타카하코 지음. 오다 케이지 감수. 김완섭 옮김
+</br>
 
 ## <a href="https://github.com/Shin-jongwhan"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
