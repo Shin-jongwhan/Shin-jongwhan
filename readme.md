@@ -195,7 +195,7 @@ Hi, I'm Shin-jongwhan!
   - 야마자키 야스시 / 미나와 요시코 / 아제카츠 요헤이 / 샤토 타카하코 지음. 오다 케이지 감수. 김완섭 옮김
 </br>
 
-### complete lecture / class
+### 📝 complete lecture / class
 - [egoing (생활코딩) - JAVA ](https://opentutorials.org/course/1223)
   - lecturer : egoing (생활코딩)
   - [github - learning note](https://github.com/Shin-jongwhan/java/tree/main)
