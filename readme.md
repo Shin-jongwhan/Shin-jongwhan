@@ -197,6 +197,9 @@ Hi, I'm Shin-jongwhan!
 
 ### complete lecture / class
 - [egoing (생활코딩) - JAVA ](https://opentutorials.org/course/1223)
+  - lecturer : egoing (생활코딩)
+- [Udemy AWS SAA-C03](https://github.com/Shin-jongwhan/udemy_AWS_SAA_cert)
+  - lecturer : Stephan Maarek
 </br>
 
 
