@@ -158,6 +158,7 @@ Hi, I'm Shin-jongwhan!
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
     <a href="https://github.com/Shin-jongwhan"><img alt="microsoftazure-container" src="https://img.shields.io/badge/microsoftazure_container-0078D7.svg?logo=microsoftazure&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 </p>
 
 ### 💻 Software and Tools
