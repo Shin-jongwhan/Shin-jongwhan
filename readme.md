@@ -74,6 +74,8 @@ Hi, I'm Shin-jongwhan!
 </p>
 
 ## 🛠️ Skills
+### Python | Cython | Docker | Singularity | Linux | Javascript | HTML | CSS | C | C# | Java | R | Django | Ajax | Jquery | Select2 | Mysql | MongoDB | Sqlite3 | CI/CD | Snakemake | Airflow | Unity | SGE | Cloud Computing | FrontEnd | BackEnd | Full-stack | DevOps | Microservices | Distributed System | AWS Solution Architect | Bioinformatics | Korean - Native | English - Advanced | Japanese - Pre-intermediate
+### <br/>
 
 ### 👨‍💻 Programming Languages
 
@@ -270,4 +272,4 @@ Hi, I'm Shin-jongwhan!
 
 [Shin-jongwhan](https://github.com/Shin-jongwhan)
 
-Last Edited on: 2024-08-23
+Last Edited on: 2024-09-25
