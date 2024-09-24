@@ -213,6 +213,13 @@ Hi, I'm Shin-jongwhan!
   - 야마자키 야스시 / 미나와 요시코 / 아제카츠 요헤이 / 샤토 타카하코 지음. 오다 케이지 감수. 김완섭 옮김
 </br>
 
+### 📖 Currently reading books about IT
+- [The Elements of Computing Systems 2 / Building a Modern Computer from First Principles](https://product.kyobobook.co.kr/detail/S000201485097)
+  - by Noam Nisan (Author), Shimon Schocken (Author)
+- [Deep learning from scratch 2](https://product.kyobobook.co.kr/detail/S000001810145)
+  - 사이토 고키 저자(글)· 개앞맵시 번역
+</br>
+
 ### 📝 complete lecture / class
 - [egoing (생활코딩) - JAVA ](https://opentutorials.org/course/1223)
   - lecturer : egoing (생활코딩)
