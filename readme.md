@@ -40,7 +40,7 @@ Hi, I'm Shin-jongwhan!
 ## git commits
 #### ![image](https://github.com/Shin-jongwhan/Shin-jongwhan/assets/62974484/0e2fb631-1459-4360-973f-112ce804cec0)
 #### ![image](https://github.com/Shin-jongwhan/Shin-jongwhan/assets/62974484/e50a6c07-85fd-4b8c-83dc-71987f13140b)
-#### ![image](https://github.com/user-attachments/assets/ea8dfd3e-83fc-4eb2-a613-29d0378c9f07)
+#### ![image](https://github.com/user-attachments/assets/0a594d6d-1f9a-481a-af49-106dc6558682)
 ### <br/><br/>
 
 <hr>
@@ -220,6 +220,7 @@ Hi, I'm Shin-jongwhan!
 ### 📖 Currently reading books about IT
 - [The Elements of Computing Systems 2 / Building a Modern Computer from First Principles](https://product.kyobobook.co.kr/detail/S000201485097)
   - by Noam Nisan (Author), Shimon Schocken (Author)
+  - https://github.com/Shin-jongwhan/nand2tetris
 - [Deep learning from scratch 2](https://product.kyobobook.co.kr/detail/S000001810145)
   - 사이토 고키 저자(글)· 개앞맵시 번역
 </br>
@@ -274,4 +275,4 @@ Hi, I'm Shin-jongwhan!
 
 [Shin-jongwhan](https://github.com/Shin-jongwhan)
 
-Last Edited on: 2024-09-25
+Last Edited on: 2024-10-11
