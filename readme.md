@@ -220,7 +220,7 @@ Hi, I'm Shin-jongwhan!
 ### 📖 Currently reading books about IT
 - [The Elements of Computing Systems 2 / Building a Modern Computer from First Principles](https://product.kyobobook.co.kr/detail/S000201485097)
   - by Noam Nisan (Author), Shimon Schocken (Author)
-  - https://github.com/Shin-jongwhan/nand2tetris
+  - [gitgub - nand2tetris](https://github.com/Shin-jongwhan/nand2tetris)
 - [Deep learning from scratch 2](https://product.kyobobook.co.kr/detail/S000001810145)
   - 사이토 고키 저자(글)· 개앞맵시 번역
 </br>
