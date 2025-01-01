@@ -40,7 +40,7 @@ Hi, I'm Shin-jongwhan!
 ## git commits
 #### ![image](https://github.com/Shin-jongwhan/Shin-jongwhan/assets/62974484/0e2fb631-1459-4360-973f-112ce804cec0)
 #### ![image](https://github.com/Shin-jongwhan/Shin-jongwhan/assets/62974484/e50a6c07-85fd-4b8c-83dc-71987f13140b)
-#### ![image](https://github.com/user-attachments/assets/0a594d6d-1f9a-481a-af49-106dc6558682)
+#### ![image](https://github.com/user-attachments/assets/eac7c422-6a54-404d-9716-307bc6115103)
 ### <br/><br/>
 
 <hr>
@@ -75,7 +75,7 @@ Hi, I'm Shin-jongwhan!
 
 ## 🛠️ Skills
 #### Python | Cython | Docker | Singularity | Linux | Javascript | HTML | CSS | C | C# | Java | R | Django | Ajax | Jquery | Select2 | Mysql | MongoDB | Redis | Sqlite3 | CI/CD | Snakemake | Airflow | Unity | SGE | 
-#### Cloud Computing | FrontEnd | BackEnd | Full-stack | DevOps | Microservices | Distributed System | AWS Solution Architect | Bioinformatics | 
+#### VPN | OpenVPN | Cloud Computing | FrontEnd | BackEnd | Full-stack | DevOps | Microservices | Distributed System | AWS Solution Architect | Bioinformatics | 
 #### Korean - Native | English - Advanced | Japanese - Pre-intermediate
 ### <br/>
 
@@ -278,4 +278,4 @@ Hi, I'm Shin-jongwhan!
 
 [Shin-jongwhan](https://github.com/Shin-jongwhan)
 
-Last Edited on: 2024-10-11
+Last Edited on: 2025-01-01
