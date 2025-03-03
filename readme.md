@@ -63,7 +63,7 @@ Hi, I'm Shin-jongwhan!
 ## certification
 <p align="left">
 	<a href="https://www.credly.com/users/jonghwan-shin.85eb67a5/badges"><img src="https://user-images.githubusercontent.com/62974484/236116148-59392770-b0c2-4fec-a2ba-166f754cd84b.png" alt="GitHub" width="150" /></a>
-	<a href="https://www.credly.com/users/jonghwan-shin.85eb67a5/badges"><img src="https://github.com/user-attachments/assets/867f82de-239a-4a77-b2ca-8e0d80004074.png" alt="GitHub" width="150" /></a>
+	<a href="https://www.credly.com/badges/453ef360-22d0-41e1-befb-7f25be9c9586/public_url"><img src="https://github.com/Shin-jongwhan/Shin-jongwhan/blob/main/aws-certified-developer-associate_badge.png" alt="GitHub" width="150" /></a>
 </p>
 
 <hr>
