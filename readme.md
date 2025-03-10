@@ -213,6 +213,7 @@ Hi, I'm Shin-jongwhan!
 ### 📖 Read books about IT
 - [Deep learning from scratch](https://www.hanbit.co.kr/media/community/review_view.html?hbr_idx=3595)
   - 사이토 고키 지음. 개앞맵시(이복연) 번역.
+  - 3회독 하였음.
 - [High performance python](https://www.yes24.com/Product/Goods/30231783?pid=123487&cosemkid=go14913761315646498&gad_source=1&gclid=CjwKCAiAs6-sBhBmEiwA1Nl8s38Q4xE9iytqjlIBoq7jyuCAFk3kV6tQOuuak7dt2vAeSVDpEaNGQRoCSE0QAvD_BwE)
   - Micha Gorelick 지음. 김영근 옮김.
 - [그림으로 공부하는 IT 인프라 구조](https://product.kyobobook.co.kr/detail/S000001942495)
