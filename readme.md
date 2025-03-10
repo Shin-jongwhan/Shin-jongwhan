@@ -27,7 +27,7 @@ Hi, I'm Shin-jongwhan!
 📚 My major in BioScience (Bachelor's degree)
 📝 AWS Cloud architect
 🔭 DevOps
-🌱 Currently Learning about : kubernetes
+🌱 Currently Learning about : Cloud, AWS
 🌟 Main languages: Python, SQL
 💿 OS: linux (ubuntu / CentOS), Windows
 🚩 Interested in Cloud, DevOps, Bigdata analysis, Data engineering, Develop games
