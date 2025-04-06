@@ -65,6 +65,7 @@ Hi, I'm Shin-jongwhan!
 <p align="left">
 	<a href="https://www.credly.com/users/jonghwan-shin.85eb67a5/badges"><img src="https://user-images.githubusercontent.com/62974484/236116148-59392770-b0c2-4fec-a2ba-166f754cd84b.png" alt="GitHub" width="150" /></a>
 	<a href="https://www.credly.com/badges/453ef360-22d0-41e1-befb-7f25be9c9586/public_url"><img src="https://github.com/Shin-jongwhan/Shin-jongwhan/blob/main/aws-certified-developer-associate_badge.png" alt="GitHub" width="150" /></a>
+	<a href="https://www.credly.com/badges/acae7f02-aa27-46b3-a5c4-7e0965f301ee/public_url"><img src="https://github.com/Shin-jongwhan/Shin-jongwhan/blob/main/aws-certified-sysops-administrator-associate.png" alt="GitHub" width="150" /></a>
 </p>
 
 <hr>
@@ -281,4 +282,4 @@ Hi, I'm Shin-jongwhan!
 
 [Shin-jongwhan](https://github.com/Shin-jongwhan)
 
-Last Edited on: 2025-03-05
+Last Edited on: 2025-04-06
