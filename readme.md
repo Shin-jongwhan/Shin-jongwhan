@@ -32,7 +32,7 @@ Hi, I'm Shin-jongwhan!
 💿 OS: linux (ubuntu / CentOS), Windows
 🚩 Interested in Cloud, DevOps, Bigdata analysis, Data engineering, Develop games
 🌌 Want to learn more about AWS Cloud, Hadoop DFS, Apache spark
-🤔 this is <a href="https://drive.google.com/file/d/10ZS9DUSXEDUzv9uy2dKZg34Vgk3uSj1Q/view?usp=drive_link" target="_blank">MY RESUME.</a>
+🤔 this is <a href="https://drive.google.com/file/d/1sA7K29VKK9SjxObhdTBNKk2GRrGG_wi4/view?usp=drive_link" target="_blank">MY RESUME.</a>
 </pre>
 
 <hr>
