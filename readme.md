@@ -222,6 +222,9 @@ Hi, I'm Shin-jongwhan!
 - [파이썬 라이브러리를 활용한 머신러닝](https://product.kyobobook.co.kr/detail/S000001057726)
   - 안드레아스 뮐러 , 세라 가이도 저자(글) · 박해선 번역
   - 1-200 페이지까지만 읽음
+- [밑바닥부터 만드는 컴퓨팅 시스템 - 불 논리부터 컴퓨터 아키텍처, 운영체제까지](https://product.kyobobook.co.kr/detail/S000201485097)
+  - 노암 니산 , 시몬 쇼켄 저자(글) · 김진홍 번역
+  - [nand2tetris project](https://github.com/Shin-jongwhan/nand2tetris)
 </br>
 
 ### 📖 Currently reading books about IT
