@@ -38,7 +38,7 @@ Hi, I'm Shin-jongwhan!
 <hr>
 
 ## git commits
-#### ![image](https://github.com/user-attachments/assets/7f84e39f-0332-494e-ac3d-2ad342b40d09)
+#### ![image](https://github.com/user-attachments/assets/2fee1443-201f-4fe6-8ce6-f654e7eb3176)
 #### ![image](https://github.com/user-attachments/assets/eac7c422-6a54-404d-9716-307bc6115103)
 #### ![image](https://github.com/Shin-jongwhan/Shin-jongwhan/assets/62974484/e50a6c07-85fd-4b8c-83dc-71987f13140b)
 #### ![image](https://github.com/Shin-jongwhan/Shin-jongwhan/assets/62974484/0e2fb631-1459-4360-973f-112ce804cec0)
@@ -285,4 +285,4 @@ Hi, I'm Shin-jongwhan!
 
 [Shin-jongwhan](https://github.com/Shin-jongwhan)
 
-Last Edited on: 2025-04-06
+Last Edited on: 2025-05-03
