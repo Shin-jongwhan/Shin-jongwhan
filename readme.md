@@ -99,8 +99,6 @@ Hi, I'm Shin-jongwhan!
 </p>
 
 ### 🧰 Frameworks and Libraries
-
-
 <div>
 	<p><b>python</b></p>
 	multiprocessing, 
@@ -154,7 +152,7 @@ Hi, I'm Shin-jongwhan!
 <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
     <a href="https://github.com/Shin-jongwhan"><img alt="microsoftazure-container" src="https://img.shields.io/badge/microsoftazure_container-0078D7.svg?logo=microsoftazure&logoColor=white"></a>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 </p>
@@ -182,6 +180,10 @@ Hi, I'm Shin-jongwhan!
  	<a href="https://github.com/Shin-jongwhan/slurm">slurm</a>
 </p>
 
+### 🏛️ DevOps
+#### [Ansible](https://github.com/Shin-jongwhan/IaC_infrastructure_as_code/tree/main/ansible)
+#### [Kubernetes](https://github.com/Shin-jongwhan/kubernetes)
+
 ### ⭐ Game development Engine
 
 <div>
@@ -196,14 +198,6 @@ Hi, I'm Shin-jongwhan!
 	<a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
 </p>
 </br>
-
-<!--
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="https://github.com/Shin-jongwhan"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/Shin-jongwhan"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
--->
 </br>
 
 ### 📖 Read books about IT
@@ -220,9 +214,6 @@ Hi, I'm Shin-jongwhan!
 - [밑바닥부터 만드는 컴퓨팅 시스템 - 불 논리부터 컴퓨터 아키텍처, 운영체제까지](https://product.kyobobook.co.kr/detail/S000201485097)
   - 노암 니산 , 시몬 쇼켄 저자(글) · 김진홍 번역
   - [nand2tetris project](https://github.com/Shin-jongwhan/nand2tetris)
-</br>
-
-### 📖 Currently reading books about IT
 - [The Elements of Computing Systems 2 / Building a Modern Computer from First Principles](https://product.kyobobook.co.kr/detail/S000201485097)
   - by Noam Nisan (Author), Shimon Schocken (Author)
   - [gitgub - nand2tetris](https://github.com/Shin-jongwhan/nand2tetris)
