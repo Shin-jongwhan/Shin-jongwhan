@@ -25,20 +25,19 @@ Hi, I'm Shin-jongwhan!
 <pre>
 💻 I’m currently working at : Theragenbio (Bioinformatics)
 📚 My major in BioScience (Bachelor's degree)
-📝 AWS Cloud architect
-🔭 DevOps
-🌱 Currently Learning about : Cloud, AWS
-🌟 Main languages: Python, SQL
+🔭 Responsibilities : DevOps, Bioinformatics
+🌱 Currently Learning about : Kubernetes
+🌟 Main languages: Python
 💿 OS: linux (ubuntu / CentOS), Windows
-🚩 Interested in Cloud, DevOps, Bigdata analysis, Data engineering, Develop games
-🌌 Want to learn more about AWS Cloud, Hadoop DFS, Apache spark
+🚩 Interested in Cloud, DevOps, Bigdata analysis, Data engineering, Bioinformatics
+🌌 Want to learn more about DevOps
 🤔 this is <a href="https://drive.google.com/file/d/1sA7K29VKK9SjxObhdTBNKk2GRrGG_wi4/view?usp=drive_link" target="_blank">MY RESUME.</a>
 </pre>
 
 <hr>
 
 ## git commits
-#### ![image](https://github.com/user-attachments/assets/2fee1443-201f-4fe6-8ce6-f654e7eb3176)
+#### <img width="914" height="224" alt="image" src="https://github.com/user-attachments/assets/20b18e57-b760-4239-86d8-fe507d4acb5e" />
 #### ![image](https://github.com/user-attachments/assets/eac7c422-6a54-404d-9716-307bc6115103)
 #### ![image](https://github.com/Shin-jongwhan/Shin-jongwhan/assets/62974484/e50a6c07-85fd-4b8c-83dc-71987f13140b)
 #### ![image](https://github.com/Shin-jongwhan/Shin-jongwhan/assets/62974484/0e2fb631-1459-4360-973f-112ce804cec0)
@@ -77,8 +76,8 @@ Hi, I'm Shin-jongwhan!
 </p>
 
 ## 🛠️ Skills
-#### Python | Cython | Docker | Singularity | Linux | Javascript | HTML | CSS | C | C# | R | Django | Ajax | Jquery | Select2 | Mysql | MongoDB | Redis | Sqlite3 | CI/CD | Snakemake | Airflow | Unity | SGE | 
-#### VPN | OpenVPN | Cloud Computing | FrontEnd | BackEnd | Full-stack | DevOps | Microservices | Distributed System | AWS Solution Architect | Bioinformatics | 
+#### Python | Cython | Docker | Singularity | Linux | Javascript | HTML | CSS | C | C# | R | Django | Ajax | Jquery | Mysql | MongoDB | Redis | Sqlite3 | CI/CD | Snakemake | Airflow | Unity | SGE | Kubernetes | Ansible
+#### Cloud Computing | FrontEnd | BackEnd | Full-stack | DevOps | Microservices | Distributed System | AWS Solution Architect | Bioinformatics | 
 #### Korean - Native | English - Advanced | Japanese - Pre-intermediate
 ### <br/>
 
@@ -98,14 +97,6 @@ Hi, I'm Shin-jongwhan!
   	<br/>
    	<a>SQL</a>
 </p>
-
-### ⭐ development Engine
-
-<div>
-	<p><b>game dev</b></p>
-	<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-	<img src="https://img.shields.io/badge/unreal_engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
-</div>
 
 ### 🧰 Frameworks and Libraries
 
@@ -144,7 +135,6 @@ Hi, I'm Shin-jongwhan!
 <div>
 	<p><b>message broker (queue)</b></p>
 	<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/></a>
-	<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=Celery&logoColor=white"/></a>
 </div>
 
 ### 📃 SaaS
@@ -192,13 +182,18 @@ Hi, I'm Shin-jongwhan!
  	<a href="https://github.com/Shin-jongwhan/slurm">slurm</a>
 </p>
 
+### ⭐ Game development Engine
+
+<div>
+	<p><b>game dev</b></p>
+	<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+	<img src="https://img.shields.io/badge/unreal_engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+</div>
 
 ### 📔 current my interests and learning
 <p>
-	<a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white"/></a>
+	<a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a>
 	<a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-	<a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/apache_spark-E25A1C?style=flat-square&logo=apache spark&logoColor=white"/></a>
-	<a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/unreal_engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>
 </p>
 </br>
 
@@ -285,4 +280,4 @@ Hi, I'm Shin-jongwhan!
 
 [Shin-jongwhan](https://github.com/Shin-jongwhan)
 
-Last Edited on: 2025-05-03
+Last Edited on: 2025-07-16
