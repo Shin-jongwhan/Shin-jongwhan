@@ -188,7 +188,8 @@ Hi, I'm Shin-jongwhan!
 <div>
 	<p><b>game dev</b></p>
 	<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-	<img src="https://img.shields.io/badge/unreal_engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+	<br/>
+	<img src="https://img.shields.io/badge/unreal_engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/><p>(basic)</p>
 </div>
 
 ### 📔 current my interests and learning
