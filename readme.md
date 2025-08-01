@@ -37,7 +37,7 @@ Hi, I'm Shin-jongwhan!
 <hr>
 
 ## git commits
-#### <img width="914" height="224" alt="image" src="https://github.com/user-attachments/assets/20b18e57-b760-4239-86d8-fe507d4acb5e" />
+#### <img width="903" height="209" alt="image" src="https://github.com/user-attachments/assets/2894cfcd-6435-4395-b9ca-406a9e87de11" />
 #### ![image](https://github.com/user-attachments/assets/eac7c422-6a54-404d-9716-307bc6115103)
 #### ![image](https://github.com/Shin-jongwhan/Shin-jongwhan/assets/62974484/e50a6c07-85fd-4b8c-83dc-71987f13140b)
 #### ![image](https://github.com/Shin-jongwhan/Shin-jongwhan/assets/62974484/0e2fb631-1459-4360-973f-112ce804cec0)
@@ -76,9 +76,9 @@ Hi, I'm Shin-jongwhan!
 </p>
 
 ## 🛠️ Skills
-#### Python | Cython | Docker | Singularity | Linux | Javascript | HTML | CSS | C | C# | R | Django | Ajax | Jquery | Mysql | MongoDB | Redis | Sqlite3 | CI/CD | Snakemake | Airflow | Unity | SGE | Kubernetes | Ansible
-#### Cloud Computing | FrontEnd | BackEnd | Full-stack | DevOps | Microservices | Distributed System | AWS Solution Architect | Bioinformatics | 
-#### Korean - Native | English - Advanced | Japanese - Pre-intermediate
+### Main : Python | Microservices | Distributed Systems | Bioinformatics | DevOps | BackEnd
+### Sub : Cloud Computing | FrontEnd | Full-stack | AI | AWS Solutions Architect
+### language : Korean (Native) | English (Intermediate) | Japanese (Pre-intermediate)
 ### <br/>
 
 ### 👨‍💻 Programming Languages
@@ -189,7 +189,7 @@ Hi, I'm Shin-jongwhan!
 	<p><b>game dev</b></p>
 	<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 	<br/>
-	<img src="https://img.shields.io/badge/unreal_engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/><span>(basic)</span>
+	<img src="https://img.shields.io/badge/unreal_engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/> <span> (basic)</span>
 </div>
 
 ### 📔 current my interests and learning
@@ -271,4 +271,4 @@ Hi, I'm Shin-jongwhan!
 
 [Shin-jongwhan](https://github.com/Shin-jongwhan)
 
-Last Edited on: 2025-07-16
+Last Edited on: 2025-08-01
