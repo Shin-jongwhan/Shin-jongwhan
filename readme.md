@@ -37,7 +37,7 @@ Hi, I'm Shin-jongwhan!
 <hr>
 
 ## git commits
-#### <img width="903" height="209" alt="image" src="https://github.com/user-attachments/assets/2894cfcd-6435-4395-b9ca-406a9e87de11" />
+#### <img width="918" height="234" alt="image" src="https://github.com/user-attachments/assets/8af32e90-f6ba-4ff1-bdb8-87a3f746de08" />
 #### ![image](https://github.com/user-attachments/assets/eac7c422-6a54-404d-9716-307bc6115103)
 #### ![image](https://github.com/Shin-jongwhan/Shin-jongwhan/assets/62974484/e50a6c07-85fd-4b8c-83dc-71987f13140b)
 #### ![image](https://github.com/Shin-jongwhan/Shin-jongwhan/assets/62974484/0e2fb631-1459-4360-973f-112ce804cec0)
