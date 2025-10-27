@@ -85,7 +85,6 @@ Hi, I'm Shin-jongwhan!
 
 <p>
 	<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
- 	<img src="https://img.shields.io/badge/Cython-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
   	<img src="https://img.shields.io/badge/C sharp-99CC00?style=flat-square&logo=sharp&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white"/></a> 
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -93,7 +92,6 @@ Hi, I'm Shin-jongwhan!
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>  
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
- 	<img src="https://img.shields.io/badge/minecraft_skript-62B47A?style=flat-square&logo=minecraft&logoColor=white"/></a>
   	<br/>
    	<a>SQL</a>
 </p>
@@ -101,24 +99,10 @@ Hi, I'm Shin-jongwhan!
 ### 🧰 Frameworks and Libraries
 <div>
 	<p><b>python</b></p>
-	multiprocessing, 
-	multithreading, 
-	matplotlib, 
-	json, 
-	paramiko, 
-	re, 
-	argparse, 
-	pymysql, 
-	os, 
-	sys, 
-	glob, 
-	time, 
-	datetime, 
-	secrets, 
-	subprocess</br>
+    </br>
 	<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
-	<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
+	<img src="https://img.shields.io/badge/pytorch-FF6F00?style=flat-square&logo=pytorch&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 </div>
 <div>
@@ -154,15 +138,6 @@ Hi, I'm Shin-jongwhan!
     <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
-</p>
-
-### 💻 Software and Tools
-<p>
-	<a href="https://github.com/Shin-jongwhan"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-	<a href="https://github.com/Shin-jongwhan"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-	<a href="https://github.com/Shin-jongwhan"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	<br/>
-	<a>Cron (Linux scheduler)</a>
 </p>
 
 ### ⌛ workflow language / framework
@@ -271,4 +246,4 @@ Hi, I'm Shin-jongwhan!
 
 [Shin-jongwhan](https://github.com/Shin-jongwhan)
 
-Last Edited on: 2025-09-30
+Last Edited on: 2025-10-28
