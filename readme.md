@@ -146,7 +146,7 @@ Hi, I'm Shin-jongwhan!
 
 ### 🏛️ DevOps
 #### [Ansible](https://github.com/Shin-jongwhan/IaC_infrastructure_as_code/tree/main/ansible)
-#### [Kubernetes](https://github.com/Shin-jongwhan/kubernetes)
+#### [Kubernetes (study meterials)](https://github.com/Shin-jongwhan/kubernetes)
 
 ### 📔 current my interests and learning
 <p>
