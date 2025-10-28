@@ -26,11 +26,11 @@ Hi, I'm Shin-jongwhan!
 💻 I’m currently working at : Theragenbio (Bioinformatics)
 📚 My major in BioScience (Bachelor's degree)
 🔭 Responsibilities : DevOps, Bioinformatics
-🌱 Currently Learning about : Kubernetes
+🌱 Currently Learning about : Cloud, AI
 🌟 Main languages: Python
 💿 OS: linux (ubuntu / CentOS), Windows
-🚩 Interested in Cloud, DevOps, Bigdata analysis, Data engineering, Bioinformatics
-🌌 Want to learn more about DevOps
+🚩 Interested in Cloud, DevOps, Bigdata analysis, Data engineering, AI
+🌌 Want to learn more about Cloud, AI
 🤔 this is <a href="https://drive.google.com/file/d/17-F1mx9oGiYbQoj9eKnNkBfo0JAv_zMo/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 
@@ -77,7 +77,7 @@ Hi, I'm Shin-jongwhan!
 
 ## 🛠️ Skills
 ### Main : Python | Microservices | Distributed Systems | Bioinformatics | DevOps | BackEnd
-### Sub : Cloud Computing | FrontEnd | Full-stack | AI | AWS Solutions Architect
+### Sub : Cloud Computing | FrontEnd | Full-stack | AI (MLOps) | AWS Solutions Architect
 ### language : Korean (Native) | English (Intermediate) | Japanese (Pre-intermediate)
 ### <br/>
 
@@ -119,16 +119,6 @@ Hi, I'm Shin-jongwhan!
 	<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white"/></a>
 </div>
 
-### 📃 SaaS
-
-<div>
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-	<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/></a>
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
-	
-</div>
-
 ### 🗄️ Databases and Cloud Hosting
 #### [Udemy_AWS_SAA_certificate](https://github.com/Shin-jongwhan/udemy_AWS_SAA_cert)
 #### [AWS_skill_builder_test](https://github.com/Shin-jongwhan/TIL/tree/main/AWS_skill_builder_exam_practice)
@@ -145,27 +135,18 @@ Hi, I'm Shin-jongwhan!
 	<img src="https://img.shields.io/badge/snakemake-00B14F?style=flat-square&logo=python&logoColor=white"/></a>
 	<img src="https://img.shields.io/badge/apacheairflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/></a>
  	<br/>
- 	<a href="https://github.com/Shin-jongwhan/airflow">airflow</a>
+ 	<a href="https://github.com/Shin-jongwhan/airflow">my airflow study materials</a>
 </p>
 
 ### 🌌 server clustering
 <p>
 	<a>SGE (Sun Grid Engine, Oracle Grid Engine)</a><br/>
- 	<a href="https://github.com/Shin-jongwhan/slurm">slurm</a>
+ 	<a href="https://github.com/Shin-jongwhan/slurm">slurm (study meterials)</a>
 </p>
 
 ### 🏛️ DevOps
 #### [Ansible](https://github.com/Shin-jongwhan/IaC_infrastructure_as_code/tree/main/ansible)
 #### [Kubernetes](https://github.com/Shin-jongwhan/kubernetes)
-
-### ⭐ Game development Engine
-
-<div>
-	<p><b>game dev</b></p>
-	<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-	<br/>
-	<img src="https://img.shields.io/badge/unreal_engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/> <span> (basic)</span>
-</div>
 
 ### 📔 current my interests and learning
 <p>
