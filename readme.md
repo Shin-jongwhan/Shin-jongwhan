@@ -158,10 +158,8 @@ Hi, I'm Shin-jongwhan!
 ### 📖 Read books about IT
 - [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
   - 브라이스 유, Eddie 지음
-  - 독서 중
 - [Deep learning from scratch 2](https://www.hanbit.co.kr/store/books/look.php?p_code=B8950212853)
   - 사이토 고키 지음. 개앞맵시(이복연) 번역.
-  - 독서 중
 - [Deep learning from scratch](https://www.hanbit.co.kr/media/community/review_view.html?hbr_idx=3595)
   - 사이토 고키 지음. 개앞맵시(이복연) 번역.
   - 3회독
