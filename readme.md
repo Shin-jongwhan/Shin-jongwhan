@@ -173,7 +173,6 @@ Hi, I'm Shin-jongwhan!
   - 야마자키 야스시 / 미나와 요시코 / 아제카츠 요헤이 / 샤토 타카하코 지음. 오다 케이지 감수. 김완섭 옮김
 - [파이썬 라이브러리를 활용한 머신러닝](https://product.kyobobook.co.kr/detail/S000001057726)
   - 안드레아스 뮐러 , 세라 가이도 저자(글) · 박해선 번역
-  - 1-200 페이지까지만 읽음
 </br>
 
 ### 📝 complete lecture / class
