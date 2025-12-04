@@ -160,6 +160,10 @@ Hi, I'm Shin-jongwhan!
   - 브라이스 유, Eddie 지음
 - [Deep learning from scratch 2](https://www.hanbit.co.kr/store/books/look.php?p_code=B8950212853)
   - 사이토 고키 지음. 개앞맵시(이복연) 번역.
+- [밑바닥부터 만드는 컴퓨팅 시스템 - 불 논리부터 컴퓨터 아키텍처, 운영체제까지](https://product.kyobobook.co.kr/detail/S000201485097)
+  - 노암 니산 , 시몬 쇼켄 저자(글) · 김진홍 번역 (by Noam Nisan (Author), Shimon Schocken (Author))
+  - 영문 제목 : The Elements of Computing Systems 2 / Building a Modern Computer from First Principles
+  - [nand2tetris project](https://github.com/Shin-jongwhan/nand2tetris)
 - [Deep learning from scratch](https://www.hanbit.co.kr/media/community/review_view.html?hbr_idx=3595)
   - 사이토 고키 지음. 개앞맵시(이복연) 번역.
   - 3회독
@@ -170,14 +174,6 @@ Hi, I'm Shin-jongwhan!
 - [파이썬 라이브러리를 활용한 머신러닝](https://product.kyobobook.co.kr/detail/S000001057726)
   - 안드레아스 뮐러 , 세라 가이도 저자(글) · 박해선 번역
   - 1-200 페이지까지만 읽음
-- [밑바닥부터 만드는 컴퓨팅 시스템 - 불 논리부터 컴퓨터 아키텍처, 운영체제까지](https://product.kyobobook.co.kr/detail/S000201485097)
-  - 노암 니산 , 시몬 쇼켄 저자(글) · 김진홍 번역
-  - [nand2tetris project](https://github.com/Shin-jongwhan/nand2tetris)
-- [The Elements of Computing Systems 2 / Building a Modern Computer from First Principles](https://product.kyobobook.co.kr/detail/S000201485097)
-  - by Noam Nisan (Author), Shimon Schocken (Author)
-  - [gitgub - nand2tetris](https://github.com/Shin-jongwhan/nand2tetris)
-- [Deep learning from scratch 2](https://product.kyobobook.co.kr/detail/S000001810145)
-  - 사이토 고키 저자(글)· 개앞맵시 번역
 </br>
 
 ### 📝 complete lecture / class
