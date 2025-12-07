@@ -156,23 +156,33 @@ Hi, I'm Shin-jongwhan!
 </br>
 
 ### 📖 Read books about IT
+- [Deep learning from scratch 3](https://www.hanbit.co.kr/store/books/look.php?p_code=B6627606922)
+  - 사이토 고키 지음. 개앞맵시(이복연) 번역.
+  - 독서 중
 - [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
   - 브라이스 유, Eddie 지음
+  - 키워드 : 자연어 처리, 텍스트 전처리(Embedding), 통계적 언어 모델, n-gram, RNN, LSTM, GRU, word2vec, GloVe
 - [Deep learning from scratch 2](https://www.hanbit.co.kr/store/books/look.php?p_code=B8950212853)
   - 사이토 고키 지음. 개앞맵시(이복연) 번역.
+  - 키워드 : 자연어 처리, 시소러스, 통계 기반 자연어 처리, word2vec, CBOW, 추론 기반 자연어 처리, RNN, LSTM, GRU, seq2seq, attention
 - [밑바닥부터 만드는 컴퓨팅 시스템 - 불 논리부터 컴퓨터 아키텍처, 운영체제까지](https://product.kyobobook.co.kr/detail/S000201485097)
   - 노암 니산 , 시몬 쇼켄 저자(글) · 김진홍 번역 (by Noam Nisan (Author), Shimon Schocken (Author))
   - 영문 제목 : The Elements of Computing Systems 2 / Building a Modern Computer from First Principles
   - [nand2tetris project](https://github.com/Shin-jongwhan/nand2tetris)
+  - 키워드 : 불 논리, 논리 게이트, 불 / 2진수 연산, 메모리, flip-flop, 기계어, 핵 기계어, HDL, 컴퓨터 폰 노이만 아키텍처, 어셈블러, 고수준 언어, 컴파일러
 - [Deep learning from scratch](https://www.hanbit.co.kr/media/community/review_view.html?hbr_idx=3595)
   - 사이토 고키 지음. 개앞맵시(이복연) 번역.
   - 3회독
+  - 키워드 : 머신 러닝 기초, 퍼셉트론, 신경망, 선형 함수, 비선형 함수, 시그모이드, ReLU, 소프트맥스, affine 계층, Softmax-with-Loss 계층, 0부터 9까지 숫자 이미지 추론 모델, 교차 엔트로피 오차, 미분, 오차역전파법, 수치 미분과 gradient descent, 매개변수 갱신 방법(모멘텀, AdaGrad, Adam), 가중치 초깃값 설정 방법, CNN
 - [High performance python](https://www.yes24.com/Product/Goods/30231783?pid=123487&cosemkid=go14913761315646498&gad_source=1&gclid=CjwKCAiAs6-sBhBmEiwA1Nl8s38Q4xE9iytqjlIBoq7jyuCAFk3kV6tQOuuak7dt2vAeSVDpEaNGQRoCSE0QAvD_BwE)
   - Micha Gorelick 지음. 김영근 옮김.
+  - 키워드 : 파이썬을 C언어로 컴파일(cython), multiprocessing, multithreading, 시간 / 공간복잡도 최적화
 - [그림으로 공부하는 IT 인프라 구조](https://product.kyobobook.co.kr/detail/S000001942495)
   - 야마자키 야스시 / 미나와 요시코 / 아제카츠 요헤이 / 샤토 타카하코 지음. 오다 케이지 감수. 김완섭 옮김
+  - 키워드 : 수직 / 수평 / 지리 분할형 아키텍처, 컴퓨터 하드웨어 구성, 서비스 인프라 구성 방법, 네트워크, 3 tier architecture, 인프라 기본 이론(동기 / 비동기, 직렬 / 병렬, 큐, statefule / stateless), 서비스 이중화
 - [파이썬 라이브러리를 활용한 머신러닝](https://product.kyobobook.co.kr/detail/S000001057726)
   - 안드레아스 뮐러 , 세라 가이도 저자(글) · 박해선 번역
+  - 키워드 : scikit-learn을 이용한 전통적인 머신 러닝 실습, 지도 학습, 분류와 회귀, KNN 알고리즘, 선형 모델, 나이브 베이즈 분류기, 결정트리, 커널 서포트 벡터 머신, 비지도 학습, 차원 축소 방법(PCA, t-SNE), 클러스터링(k-평균 군집, 병합 군집), 통계 기반 자연어 처리 실습(CBOW, n-gram)
 </br>
 
 ### 📝 complete lecture / class
