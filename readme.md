@@ -155,7 +155,7 @@ Hi, I'm Shin-jongwhan!
 </br>
 </br>
 
-### 📖 Read books about IT
+### 📖 Read books about IT and AI especially
 - [Deep learning from scratch 3](https://www.hanbit.co.kr/store/books/look.php?p_code=B6627606922)
   - 사이토 고키 지음. 개앞맵시(이복연) 번역.
   - 독서 중
