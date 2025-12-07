@@ -159,7 +159,7 @@ Hi, I'm Shin-jongwhan!
 - [Deep learning from scratch 3](https://www.hanbit.co.kr/store/books/look.php?p_code=B6627606922)
   - 사이토 고키 지음. 개앞맵시(이복연) 번역.
   - 독서 중
-  - 키워드 : 현대 딥러닝 프레임워크 작동 이해, 밑바닥부터 딥러닝 프레임워크 개발, 파이썬 class를 중심으로 한 객체지향 프로그래밍, 점진적이고 체계적인 소프트웨어 개발
+  - 키워드 : 현대 딥러닝 프레임워크 작동 이해, 밑바닥(미분, forward, backward)부터 딥러닝 프레임워크 개발, 파이썬 class를 중심으로 한 객체지향 프로그래밍, 점진적이고 체계적인 소프트웨어 개발
 - [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
   - 브라이스 유, Eddie 지음
   - 키워드 : 자연어 처리, 텍스트 전처리(Embedding), 통계적 언어 모델, n-gram, RNN, LSTM, GRU, word2vec, GloVe
