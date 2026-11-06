@@ -31,7 +31,7 @@ Hi, I'm Shin-jongwhan!
 💿 OS: linux (ubuntu / CentOS), Windows
 🚩 Interested in Cloud, DevOps, Bigdata analysis, Data engineering, AI
 🌌 Want to learn more about Cloud, AI
-🤔 this is <a href="https://drive.google.com/file/d/17-F1mx9oGiYbQoj9eKnNkBfo0JAv_zMo/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 this is MY RESUME : <a href="https://github.com/Shin-jongwhan/Shin-jongwhan/blob/main/resume/resume_jonghwan_shin_en.pdf" target="_blank">English</a> / <a href="https://github.com/Shin-jongwhan/Shin-jongwhan/blob/main/resume/resume_jonghwan_shin_ko.pdf" target="_blank">Korean</a>
 🗂 this is MY PORTFOLIO : <a href="https://github.com/Shin-jongwhan/Shin-jongwhan/blob/main/portfolio/portfolio_jonghwan_shin_en.pdf" target="_blank">English</a> / <a href="https://github.com/Shin-jongwhan/Shin-jongwhan/blob/main/portfolio/portfolio_jonghwan_shin_ko.pdf" target="_blank">Korean</a>
 </pre>
 
@@ -72,7 +72,7 @@ Hi, I'm Shin-jongwhan!
 
 ## 🤝 Connect with me
 <p align="center">
-	<li><b>Email</b> : shinejh0528@naver.com</li>
+	<li><b>Email</b> : shinejh0528@gmail.com</li>
 	<li><a href="https://github.com/Shin-jongwhan"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a></li>
 </p>
 
@@ -241,4 +241,4 @@ Hi, I'm Shin-jongwhan!
 
 [Shin-jongwhan](https://github.com/Shin-jongwhan)
 
-Last Edited on: 2025-12-02
+Last Edited on: 2026-11-06
