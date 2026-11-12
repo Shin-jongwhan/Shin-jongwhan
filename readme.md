@@ -31,7 +31,6 @@ Hi, I'm Shin-jongwhan!
 💿 OS: linux (ubuntu / CentOS), Windows
 🚩 Interested in Cloud, DevOps, Bigdata analysis, Data engineering, AI
 🌌 Want to learn more about Cloud, AI
-🤔 this is MY RESUME : <a href="https://github.com/Shin-jongwhan/Shin-jongwhan/blob/main/resume/resume_jonghwan_shin_en.pdf" target="_blank">English</a> / <a href="https://github.com/Shin-jongwhan/Shin-jongwhan/blob/main/resume/resume_jonghwan_shin_ko.pdf" target="_blank">Korean</a>
 🗂 this is MY PORTFOLIO : <a href="https://github.com/Shin-jongwhan/Shin-jongwhan/blob/main/portfolio/portfolio_jonghwan_shin_en.pdf" target="_blank">English</a> / <a href="https://github.com/Shin-jongwhan/Shin-jongwhan/blob/main/portfolio/portfolio_jonghwan_shin_ko.pdf" target="_blank">Korean</a>
 </pre>
 
